@@ -1,2 +1,2 @@
 # OpenVMechanics
-C++ Variational 
+C++ Variational Mechanics code 
